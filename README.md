@@ -1,4 +1,4 @@
-# shoppingBasketServer
+# ShoppingBasketServer
 basket server
 
 POST  /{userid} 
