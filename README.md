@@ -2,8 +2,9 @@
 basket server
 
 POST  /{userid} 
-      param : productId
-              amount
+### param 
+      + productId
+      + amount
       상품을 장바구니에 저장.
       
 GET   /{userid}
